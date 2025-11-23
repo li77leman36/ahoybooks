@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_browse_folder"
+        android:title="@string/browse_folder"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_refresh"
+        android:title="@string/refresh"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_reset_folder"
+        android:title="@string/reset_to_default"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_download_librivox"
+        android:title="Download from LibriVox"
+        app:showAsAction="never" />
+</menu>
+
+

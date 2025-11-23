@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Ahoy Books</string>
+    <string name="no_books_found">No audiobooks found. Please add audiobook folders to your device.</string>
+    <string name="select_folder">Select Audiobook Folder</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="rewind">Rewind 10s</string>
+    <string name="forward">Forward 10s</string>
+    <string name="current_book">Current Book</string>
+    <string name="no_book_selected">No book selected</string>
+    <string name="permission_required">Storage permission is required to access audiobook files</string>
+    <string name="browse_folder">Browse Folder</string>
+    <string name="current_folder">Current Folder: %1$s</string>
+    <string name="default_folder">Default (Music)</string>
+    <string name="select_audiobook_folder">Select the folder containing your audiobooks</string>
+    <string name="folder_selected">Folder selected: %1$s</string>
+    <string name="scanning">Scanning for audiobooks...</string>
+    <string name="reset_to_default">Reset to Default</string>
+    <string name="folder_reset">Reset to default Music folder</string>
+    <string name="refresh">Refresh</string>
+    <string name="book_cover">Book cover image</string>
+    <string name="sleep_timer">Sleep Timer</string>
+    <string name="set_timer">Set Timer</string>
+    <string name="timer_off">Timer Off</string>
+    <string name="timer_minutes">Timer: %1$d min</string>
+    <string name="timer_remaining">%1$d:%2$02d remaining</string>
+    <string name="enter_minutes">Enter minutes (1-480)</string>
+    <string name="timer_set">Sleep timer set for %1$d minutes</string>
+    <string name="timer_expired">Sleep timer expired</string>
+</resources>
+

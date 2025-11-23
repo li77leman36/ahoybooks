@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#667eea</color>
+    <color name="purple_700">#764ba2</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    
+    <!-- Light theme colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Surface colors - Light theme -->
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_variant_light">#F5F5F5</color>
+    <color name="on_surface_light">#1C1B1F</color>
+    <color name="on_surface_variant_light">#49454F</color>
+    
+    <!-- Surface colors - Dark theme (default) -->
+    <color name="surface_dark">#121212</color>
+    <color name="surface_variant_dark">#1E1E1E</color>
+    <color name="on_surface_dark">#FFFFFF</color>
+    <color name="on_surface_variant_dark">#B3B3B3</color>
+    
+    <!-- Theme-aware colors (will be overridden in night mode) -->
+    <color name="surface">@color/surface_light</color>
+    <color name="surface_variant">@color/surface_variant_light</color>
+    <color name="on_surface">@color/on_surface_light</color>
+    <color name="on_surface_variant">@color/on_surface_variant_light</color>
+    
+    <!-- Text colors -->
+    <color name="text_primary">@color/on_surface</color>
+    <color name="text_secondary">@color/on_surface_variant</color>
+    
+    <!-- Background colors -->
+    <color name="background">@color/surface</color>
+    <color name="card_background">@color/surface_variant</color>
+    
+    <!-- Outline color -->
+    <color name="outline_light">#79747E</color>
+    <color name="outline_dark">#938F99</color>
+    <color name="outline">@color/outline_light</color>
+</resources>

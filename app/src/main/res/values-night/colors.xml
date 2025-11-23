@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark theme colors -->
+    <color name="surface">@color/surface_dark</color>
+    <color name="surface_variant">@color/surface_variant_dark</color>
+    <color name="on_surface">@color/on_surface_dark</color>
+    <color name="on_surface_variant">@color/on_surface_variant_dark</color>
+    
+    <!-- Text colors for dark theme -->
+    <color name="text_primary">@color/on_surface</color>
+    <color name="text_secondary">@color/on_surface_variant</color>
+    
+    <!-- Background colors for dark theme -->
+    <color name="background">@color/surface</color>
+    <color name="card_background">@color/surface_variant</color>
+    
+    <!-- Outline color for dark theme -->
+    <color name="outline">@color/outline_dark</color>
+</resources>
+
