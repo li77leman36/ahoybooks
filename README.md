@@ -2,6 +2,9 @@
 
 A feature-rich Android audiobook player with queue management, LibriVox integration, and smart file organization.
 
+## Background
+I wanted a simple, easy to use audio book app for Android- I didn't really like what was on offer so I built one! 
+
 ## Features
 
 ### Core Playback
@@ -24,7 +27,6 @@ A feature-rich Android audiobook player with queue management, LibriVox integrat
 
 ### User Interface
 - **Modern Material Design**: Clean, sleek interface with intuitive controls
-- **Book Covers**: Automatic cover art detection from embedded metadata or online search
 - **Queue Dialog**: Easy-to-use queue management with drag-and-drop reordering
 - **Progress Tracking**: Visual indicators showing current file and position
 
